@@ -1,0 +1,7 @@
+<suite name="DownloadsTest">
+    <test name="DownloadsTest">
+        <classes>
+            <class name="tests.JQueryUIMenusTest"/>
+        </classes>
+    </test>
+</suite>

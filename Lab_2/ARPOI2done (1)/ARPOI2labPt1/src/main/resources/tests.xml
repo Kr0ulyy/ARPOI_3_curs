@@ -1,0 +1,15 @@
+<suite name="AllTests">
+    <test name="AllTests">
+        <classes>
+            <class name="tests.BasicAuthTest"/>
+            <class name="tests.DropDownTest"/>
+            <class name="tests.DynamicControlsTest"/>
+            <class name="tests.ExitIntentTest"/>
+            <class name="tests.FormAuthenticationTest"/>
+            <class name="tests.FramesTest"/>
+            <class name="tests.JavaScriptAlertsTest"/>
+            <class name="tests.JQueryUIMenusTest"/>
+            <class name="tests.MultipleWindowsTest"/>
+        </classes>
+    </test>
+</suite>

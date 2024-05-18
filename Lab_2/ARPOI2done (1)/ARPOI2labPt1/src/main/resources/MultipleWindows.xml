@@ -1,0 +1,7 @@
+<suite name="MultipleWindows">
+    <test name="MultipleWindows">
+        <classes>
+            <class name="tests.MultipleWindowsTest"/>
+        </classes>
+    </test>
+</suite>

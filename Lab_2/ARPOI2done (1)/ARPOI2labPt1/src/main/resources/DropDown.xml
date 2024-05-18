@@ -1,0 +1,7 @@
+<suite name="DropDown">
+    <test name="DropDown">
+        <classes>
+            <class name="tests.DropDownTest"/>
+        </classes>
+    </test>
+</suite>

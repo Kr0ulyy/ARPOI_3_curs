@@ -1,0 +1,7 @@
+<suite name="Frames">
+    <test name="Frames">
+        <classes>
+            <class name="tests.FramesTest"/>
+        </classes>
+    </test>
+</suite>

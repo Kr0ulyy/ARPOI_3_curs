@@ -1,0 +1,7 @@
+<suite name="BasicAuth">
+    <test name="BasicAuth">
+        <classes>
+            <class name="tests.BasicAuthTest"/>
+        </classes>
+    </test>
+</suite>

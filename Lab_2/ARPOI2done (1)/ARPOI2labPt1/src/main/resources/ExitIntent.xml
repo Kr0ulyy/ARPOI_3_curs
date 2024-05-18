@@ -1,0 +1,7 @@
+<suite name="ExitIntent">
+    <test name="ExitIntent">
+        <classes>
+            <class name="tests.ExitIntentTest"/>
+        </classes>
+    </test>
+</suite>

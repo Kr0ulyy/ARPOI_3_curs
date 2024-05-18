@@ -1,0 +1,7 @@
+<suite name="DynamicControls">
+    <test name="DynamicControls">
+        <classes>
+            <class name="tests.DynamicControlsTest"/>
+        </classes>
+    </test>
+</suite>

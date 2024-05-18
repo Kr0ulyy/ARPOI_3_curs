@@ -1,0 +1,7 @@
+<suite name="JavaScriptAlerts">
+    <test name="JavaScriptAlerts">
+        <classes>
+            <class name="tests.JavaScriptAlertsTest"/>
+        </classes>
+    </test>
+</suite>

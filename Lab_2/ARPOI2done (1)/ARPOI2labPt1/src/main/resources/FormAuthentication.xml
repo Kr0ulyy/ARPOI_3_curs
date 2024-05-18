@@ -1,0 +1,7 @@
+<suite name="FormAuthentication">
+    <test name="FormAuthentication">
+        <classes>
+            <class name="tests.FormAuthenticationTest"/>
+        </classes>
+    </test>
+</suite>
